@@ -2,18 +2,15 @@
 
 ## 本期：声音灭火 · 实拍素材（S01–S10，无 S06）
 
-9 条 Pexels 免署名可商用实拍视频 + `素材来源.txt`，打包为 `声音灭火_素材回传.zip`。
-因 GitHub 单文件不能超过 100MB，压缩包按 90MB 分成 2 卷：
+9 条 Pexels 免署名可商用实拍视频 + `素材来源.txt` + `说明.txt`，整包放在 GitHub Releases（单个 zip，约 134MB，不用合并分卷）。
 
-- `声音灭火_素材回传.zip.001`（90MB）
-- `声音灭火_素材回传.zip.002`（约 38MB）
+**整包下载：** https://github.com/abc6658267-lang/tech-video-found-materials/releases/download/shengyin-miehuo-2026-10-25/shengyin-miehuo.zip
 
-## 下载与合并
+Release 页面：https://github.com/abc6658267-lang/tech-video-found-materials/releases/tag/shengyin-miehuo-2026-10-25
 
-两个分卷都下载到同一文件夹，然后合并成一个 zip 再解压：
+下载后直接解压即可（内含文件夹 `声音灭火_实拍回传/`：S01.mp4…S10.mp4、素材来源.txt、说明.txt）。
 
-- macOS / Linux：`cat 声音灭火_素材回传.zip.001 声音灭火_素材回传.zip.002 > 声音灭火_素材回传.zip`
-- Windows（cmd）：`copy /b 声音灭火_素材回传.zip.001+声音灭火_素材回传.zip.002 声音灭火_素材回传.zip`
-- 或用 7-Zip 直接打开 `.001`，它会自动读取后续分卷。
-
-合并后解压 `声音灭火_素材回传.zip` 即可（内含 S01.mp4…S10.mp4 和 素材来源.txt）。
+### 第二版更新（2026-10-25，Asia/Taipei 时区）
+- S03 已更换：墨西哥内陆城镇航拍（街区 + 教堂，无海滩）
+- S05 已提亮：同一条烟圈素材，暗部提亮后烟圈更清楚
+- S08 保留原版：没找到合适的免费手持灭火器喷射实拍，原因见 说明.txt
